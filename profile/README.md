@@ -6,7 +6,7 @@ Catalyze is built with transparency and collaboration in mind. By being open-sou
 https://discord.gg/sjht7bBncG
 
 #### Cloud Native
-Built for any environment, Catalyze seamlessly integrates with modern cloud platforms. Whether you're deploying to hyperscale providers, developer-friendly platforms, or on-premise infrastructure, Catalyze delivers the flexibility and scalability you need.
+Built for any environment, Catalyze seamlessly integrates with modern technology. Whether you're deploying to hyperscale providers, developer-friendly platforms, or on-premise, Catalyze delivers the flexibility and scalability you need.
 
 #### Software Delivery
 Catalyze simplifies **continuous integration and deployment (CI/CD)** while allowing deep integrations with your existing tools. Instead of forcing a new workflow, Catalyze **enhances** your current setup, making deployments **efficient, repeatable, and observable**. 
