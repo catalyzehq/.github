@@ -1,5 +1,5 @@
 ## What is [Catalyze](https://catalyze.software/)?
-Catalyze is a **simple open source cloud native** software delivery platform where you can configure your **pipelines as code** and integrate your favorite **tools** and **services** without disrupting your **existing workflows**.
+Catalyze is the **next generation open source cloud native** software delivery platform where you can configure your **pipelines as code** and integrate your favorite **tools** and **services** without disrupting your **existing workflows**.
 
 #### Open Source
 Catalyze is built with transparency and collaboration in mind. By being open-source, we empower developers to contribute, extend, and customize the platform to fit their unique needs. Join the community and help shape the future of software delivery.
