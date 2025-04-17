@@ -1,15 +1,26 @@
-## What is [Catalyze](https://catalyze.software/)?
-Catalyze is the **next generation open source cloud native** software delivery platform where you can configure your **pipelines as code** and integrate your favorite **tools** and **services** without disrupting your **existing workflows**.
+## Problem
 
-#### Open Source
-Catalyze is built with transparency and collaboration in mind. By being open-source, we empower developers to contribute, extend, and customize the platform to fit their unique needs. Join the community and help shape the future of software delivery.
-https://discord.gg/sjht7bBncG
+Tired of incomprehensible and unmaintainable YAML configurations?  
+Sick of fragile CI/CD pipelines that break silently and require tribal knowledge to fix?  
+Frustrated with “push and pray” commits just to test a single change?
 
-#### Cloud Native
-Built for any environment, Catalyze integrates with your existing tools and services. Whether you're deploying to hyperscale providers, developer-friendly platforms, or on-premise, Catalyze delivers the flexibility and scalability you need.
+Modern software delivery deserves better.
 
-#### Simplicity
-Catalyze simplifies **continuous integration and deployment**. Instead of forcing a new workflow, Catalyze **enhances** your current setup, making deployments **efficient, repeatable, and observable**. 
+---
 
-#### Pipelines as Code
-Define your pipelines using **modern programming languages** with an intuitive API that prioritizes **developer experience**. Pipelines should be self-explanatory, requiring minimal documentation. With Catalyze, software delivery is **fully programmable, flexible, and easy to maintain**.  
+## Solution
+
+You write clean code, ship features fast, and obsess over developer experience—so why are your pipelines stuck in the past?
+
+Traditional CI/CD tools lock you into static DSLs and inflexible GUIs.
+<br/>
+Testing changes locally? Forget it. Want to reuse logic across projects? Good luck.  
+And every time something breaks, you’re digging through logs wondering why your deployment went sideways *again*.
+
+**Catalyze** changes that.
+
+It gives you pipelines as code—TypeScript-first, with strong typing, behavior tests, and full local execution.  
+Swap integrations as easily as building with Lego blocks. Run your own server or don’t.  
+And it doesn't care **where you deploy**—whether your stack runs in the **cloud** or **on-premise**, it works with Catalyze.
+
+No YAML spaghetti. No CI guesswork. Just fast, testable, and composable delivery pipelines built like modern software.
