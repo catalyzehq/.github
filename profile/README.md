@@ -1,5 +1,3 @@
-## Problem
-
 Tired of incomprehensible and unmaintainable YAML configurations?  
 Sick of fragile CI/CD pipelines that break silently and require tribal knowledge to fix?  
 Frustrated with “push and pray” commits just to test a single change?
@@ -7,8 +5,6 @@ Frustrated with “push and pray” commits just to test a single change?
 Modern software delivery deserves better.
 
 ---
-
-## Solution
 
 You write clean code, ship features fast, and obsess over developer experience—so why are your pipelines stuck in the past?
 
